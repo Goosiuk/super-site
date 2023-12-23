@@ -1,0 +1,34 @@
+p {
+font-family: cursive;
+font-size: 20px;
+}
+h1 {
+background-color: #43131394;
+}
+
+.column-list {
+    column-count: 5;
+  }
+
+.b1 {
+    background-color:#5e2121a7;
+    color: #ffffff;
+}
+
+.a1 
+{
+
+  margin-left: 58%;
+  font-size: 26px;
+  color: black;
+  font-family: cursive;
+  
+}
+
+.list {
+  column-count: 2;
+  margin-left: 55%;
+  font-size: 23px;
+  color: black;
+  
+}
